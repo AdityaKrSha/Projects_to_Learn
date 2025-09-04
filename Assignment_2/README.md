@@ -1,1 +1,1 @@
-Task_1 have code to check whete a numnber taken as input is even or odd by taking into account the remainder which stays when divided by 2. And Task_2 have codes related to sum of the integers from 1 to 50 by running  for loop and printing the final value as output.
+Task_1 have code to check whether a number taken as input is even or odd by taking into account the remainder which stays when divided by 2. And Task_2 have codes related to sum of the integers from 1 to 50 by running  for loop and printing the final value as output.
