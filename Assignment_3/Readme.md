@@ -1,0 +1,1 @@
+Task_1 have the factorial function to run the factorial of the number given input by the user. And Task_2 is the program to use the math module and use its certain features to operate the number given input by the user.
