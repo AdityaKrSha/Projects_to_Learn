@@ -1,0 +1,1 @@
+Task_1 contains the code which read the contents of a file named sample.txt and also handle error if the name of the file is not found for which try-except is a good method. Task_2 contains the code where it read a file output.txt add content to it taken as input from the user and finally give the whole content into display also.
